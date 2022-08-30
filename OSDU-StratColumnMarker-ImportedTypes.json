@@ -5049,7 +5049,7 @@
             {
               "id": "c98ba119-a918-47c5-1bc9-bd10311a43db",
               "name": "GeologicUnitOccurrenceInterpretation",
-              "description": "Interpretation of a sequence of geologic units actually observed (interpreted)  along or inside a representation, the representation can be \n•\t1D such as a well or an arbitrary line\n•\t2D like a cross section\n•\t3D like a entire model or a group of fault blocks\nIt is typically based on a stratigraphic column rank but can include more units (example intrusive bodies), duplicated units (repeated sequence along a well or lines), or less units (Eroded or non-deposited).\nAn ordering criteria indicates the reason for the order (age, apparent depth or measured depth).",
+              "description": "Interpretation of a sequence of geologic units actually observed (interpreted)  along or inside a representation, the representation can be \nâ¢\t1D such as a well or an arbitrary line\nâ¢\t2D like a cross section\nâ¢\t3D like a entire model or a group of fault blocks\nIt is typically based on a stratigraphic column rank but can include more units (example intrusive bodies), duplicated units (repeated sequence along a well or lines), or less units (Eroded or non-deposited).\nAn ordering criteria indicates the reason for the order (age, apparent depth or measured depth).",
               "text": "",
               "abstract": false,
               "viewkind": "",
@@ -5168,7 +5168,7 @@
             {
               "id": "a33ac03a-fb3b-45ee-e7d3-46d298acedaa",
               "name": "HorizonInterpretation",
-              "description": "Geologic information associated to horizon-related object types (marker, seismic picks, modeled objects etc…)",
+              "description": "Geologic information associated to horizon-related object types (marker, seismic picks, modeled objects etcâ¦)",
               "abstract": false,
               "viewkind": "",
               "typeRef": "6582c5e7-e5cf-4b96-e900-28c3afb8edd9",
@@ -7921,7 +7921,7 @@
             {
               "id": "a0bc2ebe-5705-421b-5123-e4fbeb355d44",
               "name": "MarkerSubSeaVerticalDepth",
-              "description": "The Marker's TVD converted to a Sub-Sea Vertical depth, i.e., below Mean Sea Level. Note that TVD values above MSL are negative. This is the same as true vertical depth referenced to the vertical CRS “MSL depth”.",
+              "description": "The Marker's TVD converted to a Sub-Sea Vertical depth, i.e., below Mean Sea Level. Note that TVD values above MSL are negative. This is the same as true vertical depth referenced to the vertical CRS âMSL depthâ.",
               "abstract": false,
               "viewkind": "",
               "typeRef": "7e9386c9-75bc-4239-c040-d328f1c91e1b",
@@ -17390,9 +17390,9 @@
                   "viewkind": "Object",
                   "isGroup": false,
                   "isCollapsed": false,
-                  "loc": "130 -210",
+                  "loc": "-60 150",
                   "size": "",
-                  "scale": 0,
+                  "scale": 1,
                   "memberscale": 1,
                   "markedAsDeleted": false,
                   "modified": true,
@@ -18391,6 +18391,10 @@
                   "textcolor": "",
                   "textscale": "1",
                   "icon": ""
+                },
+                {
+                  "scale": null,
+                  "memberscale": null
                 }
               ],
               "relshipviews": [
@@ -18434,7 +18438,26 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": ""
+                  "modified": "",
+                  "points": {
+                    "__gohashid": 867415,
+                    "s": true,
+                    "j": [
+                      {
+                        "x": 63.77724487070749,
+                        "y": 151.37080177133203,
+                        "s": true
+                      },
+                      {
+                        "x": 188.22275512929252,
+                        "y": 50.62919822866796,
+                        "s": true
+                      }
+                    ],
+                    "Aa": 3,
+                    "Ha": null,
+                    "gh": null
+                  }
                 },
                 {
                   "id": "eeb2d4da-c686-4f92-af36-aabb0ec7eabc",
@@ -23576,6 +23599,6 @@
       }
     }
   },
-  "phSource": "OSDU-StratColumnMarker-ImportedTypes (1).json",
-  "lastUpdate": "2022-08-29T21:02:41.968Z"
+  "phSource": "OSDU-StratColumnMarker-ImportedTypes",
+  "lastUpdate": "2022-08-30T08:16:45.708Z"
 }
