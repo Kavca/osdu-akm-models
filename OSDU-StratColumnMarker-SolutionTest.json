@@ -764,7 +764,7 @@
             {
               "id": "5e554008-eb3b-4a72-b602-7115d73f9f7e",
               "name": "GeologicUnitOccurrenceInterpretation",
-              "description": "Interpretation of a sequence of geologic units actually observed (interpreted)  along or inside a representation, the representation can be \n•\t1D such as a well or an arbitrary line\n•\t2D like a cross section\n•\t3D like a entire model or a group of fault blocks\nIt is typically based on a stratigraphic column rank but can include more units (example intrusive bodies), duplicated units (repeated sequence along a well or lines), or less units (Eroded or non-deposited).\nAn ordering criteria indicates the reason for the order (age, apparent depth or measured depth).",
+              "description": "Interpretation of a sequence of geologic units actually observed (interpreted)  along or inside a representation, the representation can be \nâ¢\t1D such as a well or an arbitrary line\nâ¢\t2D like a cross section\nâ¢\t3D like a entire model or a group of fault blocks\nIt is typically based on a stratigraphic column rank but can include more units (example intrusive bodies), duplicated units (repeated sequence along a well or lines), or less units (Eroded or non-deposited).\nAn ordering criteria indicates the reason for the order (age, apparent depth or measured depth).",
               "abstract": false,
               "viewkind": "",
               "typename": "Object type",
@@ -914,7 +914,7 @@
             {
               "id": "a00757e9-b133-4158-d7cf-b53c4569c5e1",
               "name": "HorizonInterpretation",
-              "description": "Geologic information associated to horizon-related object types (marker, seismic picks, modeled objects etc…)",
+              "description": "Geologic information associated to horizon-related object types (marker, seismic picks, modeled objects etcâ¦)",
               "abstract": false,
               "viewkind": "",
               "typename": "Object type",
@@ -1325,7 +1325,7 @@
                 {
                   "id": "01c0626a-062d-450c-35ee-8a8acdc54e43",
                   "name": "MarkerSubSeaVerticalDepth",
-                  "description": "The Marker's TVD converted to a Sub-Sea Vertical depth, i.e., below Mean Sea Level. Note that TVD values above MSL are negative. This is the same as true vertical depth referenced to the vertical CRS “MSL depth”.",
+                  "description": "The Marker's TVD converted to a Sub-Sea Vertical depth, i.e., below Mean Sea Level. Note that TVD values above MSL are negative. This is the same as true vertical depth referenced to the vertical CRS âMSL depthâ.",
                   "datatypeRef": "160e8cac-4003-4b00-175f-2b720ba088e0",
                   "methodRef": "",
                   "unitCategoryRef": "",
@@ -5994,7 +5994,7 @@
             {
               "id": "5e554008-eb3b-4a72-b602-7115d73f9f7e",
               "name": "GeologicUnitOccurrenceInterpretation",
-              "description": "Interpretation of a sequence of geologic units actually observed (interpreted)  along or inside a representation, the representation can be \n•\t1D such as a well or an arbitrary line\n•\t2D like a cross section\n•\t3D like a entire model or a group of fault blocks\nIt is typically based on a stratigraphic column rank but can include more units (example intrusive bodies), duplicated units (repeated sequence along a well or lines), or less units (Eroded or non-deposited).\nAn ordering criteria indicates the reason for the order (age, apparent depth or measured depth).",
+              "description": "Interpretation of a sequence of geologic units actually observed (interpreted)  along or inside a representation, the representation can be \nâ¢\t1D such as a well or an arbitrary line\nâ¢\t2D like a cross section\nâ¢\t3D like a entire model or a group of fault blocks\nIt is typically based on a stratigraphic column rank but can include more units (example intrusive bodies), duplicated units (repeated sequence along a well or lines), or less units (Eroded or non-deposited).\nAn ordering criteria indicates the reason for the order (age, apparent depth or measured depth).",
               "abstract": false,
               "viewkind": "",
               "typename": "Object type",
@@ -6376,7 +6376,7 @@
             {
               "id": "a00757e9-b133-4158-d7cf-b53c4569c5e1",
               "name": "HorizonInterpretation",
-              "description": "Geologic information associated to horizon-related object types (marker, seismic picks, modeled objects etc…)",
+              "description": "Geologic information associated to horizon-related object types (marker, seismic picks, modeled objects etcâ¦)",
               "abstract": false,
               "viewkind": "",
               "typename": "Object type",
@@ -7177,7 +7177,7 @@
                 {
                   "id": "01c0626a-062d-450c-35ee-8a8acdc54e43",
                   "name": "MarkerSubSeaVerticalDepth",
-                  "description": "The Marker's TVD converted to a Sub-Sea Vertical depth, i.e., below Mean Sea Level. Note that TVD values above MSL are negative. This is the same as true vertical depth referenced to the vertical CRS “MSL depth”.",
+                  "description": "The Marker's TVD converted to a Sub-Sea Vertical depth, i.e., below Mean Sea Level. Note that TVD values above MSL are negative. This is the same as true vertical depth referenced to the vertical CRS âMSL depthâ.",
                   "datatypeRef": "160e8cac-4003-4b00-175f-2b720ba088e0",
                   "methodRef": "",
                   "unitCategoryRef": "",
@@ -8697,7 +8697,7 @@
             {
               "id": "01c0626a-062d-450c-35ee-8a8acdc54e43",
               "name": "MarkerSubSeaVerticalDepth",
-              "description": "The Marker's TVD converted to a Sub-Sea Vertical depth, i.e., below Mean Sea Level. Note that TVD values above MSL are negative. This is the same as true vertical depth referenced to the vertical CRS “MSL depth”.",
+              "description": "The Marker's TVD converted to a Sub-Sea Vertical depth, i.e., below Mean Sea Level. Note that TVD values above MSL are negative. This is the same as true vertical depth referenced to the vertical CRS âMSL depthâ.",
               "datatypeRef": "160e8cac-4003-4b00-175f-2b720ba088e0",
               "methodRef": "",
               "unitCategoryRef": "",
@@ -10871,6 +10871,7 @@
               "description": "",
               "typeRef": "aee21749-4125-4ce8-1343-5ecbbf305680",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -10891,6 +10892,7 @@
               "description": "",
               "typeRef": "188020c6-953a-49a5-d2a1-812076a5b26d",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -10911,6 +10913,7 @@
               "description": "",
               "typeRef": "5f1fa0f1-d89f-4a62-5b93-3a433acb833e",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "Container1",
               "figure": "",
               "geometry": "",
@@ -10931,6 +10934,7 @@
               "description": "",
               "typeRef": "c0de4b48-0220-424a-dd07-e620e27bd3c8",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "",
               "figure": "",
               "geometry": "",
@@ -10951,6 +10955,7 @@
               "description": "",
               "typeRef": "31a18ce8-66cf-4b95-79e4-673746867ac3",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textAndIcon",
               "figure": "",
               "geometry": "",
@@ -10971,6 +10976,7 @@
               "description": "",
               "typeRef": "5cc540c0-ea91-4401-74bb-4f7cb52a2366",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "",
               "figure": "",
               "geometry": "",
@@ -10991,6 +10997,7 @@
               "description": "",
               "typeRef": "ab75b695-8809-42cb-3082-9b4ef5692b1e",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11011,6 +11018,7 @@
               "description": "",
               "typeRef": "c7b60c43-cb91-4e92-a4b6-53d2aba052f3",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "label",
               "figure": "",
               "geometry": "",
@@ -11031,6 +11039,7 @@
               "description": "",
               "typeRef": "24dd7eaa-09b9-4889-221c-8e6b1372ada2",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11051,6 +11060,7 @@
               "description": "",
               "typeRef": "7e9386c9-75bc-4239-c040-d328f1c91e1b",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textAndIcon",
               "figure": "",
               "geometry": "",
@@ -11071,6 +11081,7 @@
               "description": "",
               "typeRef": "46db75fd-7c8e-40f2-cbf1-61664c7f7306",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11091,6 +11102,7 @@
               "description": "",
               "typeRef": "ba288e37-202e-43ed-8d41-ed13a1bc515f",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11111,6 +11123,7 @@
               "description": "",
               "typeRef": "0a202f69-b908-4c5d-4496-28d954161e4b",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11131,6 +11144,7 @@
               "description": "",
               "typeRef": "8977588c-e5fb-4ba0-ebb7-2905c0477ac5",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "",
               "figure": "",
               "geometry": "",
@@ -11151,6 +11165,7 @@
               "description": "",
               "typeRef": "383e7099-aeef-4b13-7ce0-e81c147767f5",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11171,6 +11186,7 @@
               "description": "",
               "typeRef": "d2516ebd-ff84-4943-1c61-272b924f0c17",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11191,6 +11207,7 @@
               "description": "",
               "typeRef": "6582c5e7-e5cf-4b96-e900-28c3afb8edd9",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11211,6 +11228,7 @@
               "description": "",
               "typeRef": "58a982f3-3be5-49cc-efca-01664443c1de",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11231,6 +11249,7 @@
               "description": "Common properties for entities describing an opinion of a volume-based geologic feature or unit.",
               "typeRef": "fab94ef9-227a-4350-23a4-f7f4cc7aaee8",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11248,9 +11267,10 @@
             {
               "id": "c7030ab4-9a11-47fc-df41-1ecce93b90d1",
               "name": "c7030ab4-9a11-47fc-df41-1ecce93b90d1",
-              "description": "Interpretation of a sequence of geologic units actually observed (interpreted)  along or inside a representation, the representation can be \n•\t1D such as a well or an arbitrary line\n•\t2D like a cross section\n•\t3D like a entire model or a group of fault blocks\nIt is typically based on a stratigraphic column rank but can include more units (example intrusive bodies), duplicated units (repeated sequence along a well or lines), or less units (Eroded or non-deposited).\nAn ordering criteria indicates the reason for the order (age, apparent depth or measured depth).",
+              "description": "Interpretation of a sequence of geologic units actually observed (interpreted)  along or inside a representation, the representation can be \nâ¢\t1D such as a well or an arbitrary line\nâ¢\t2D like a cross section\nâ¢\t3D like a entire model or a group of fault blocks\nIt is typically based on a stratigraphic column rank but can include more units (example intrusive bodies), duplicated units (repeated sequence along a well or lines), or less units (Eroded or non-deposited).\nAn ordering criteria indicates the reason for the order (age, apparent depth or measured depth).",
               "typeRef": "5e554008-eb3b-4a72-b602-7115d73f9f7e",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11271,6 +11291,7 @@
               "description": "Generic reference object containing the universal group-type properties of a Work Product Component for inclusion in data type specific Work Product Component objects",
               "typeRef": "cf3349c1-d354-49ba-04c9-583789a227bc",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11291,6 +11312,7 @@
               "description": "The group of properties shared by different kinds of interpretations",
               "typeRef": "84e10424-d46f-4716-a409-16ae5d448434",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11311,6 +11333,7 @@
               "description": "System properties to be injected at root level by the OsduSchemaComposer script.",
               "typeRef": "1d5a19b8-1cb6-411d-b5c6-5a07210ff429",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11328,9 +11351,10 @@
             {
               "id": "58946ef1-a5be-49bc-a2f1-3b2251d96da9",
               "name": "58946ef1-a5be-49bc-a2f1-3b2251d96da9",
-              "description": "Geologic information associated to horizon-related object types (marker, seismic picks, modeled objects etc…)",
+              "description": "Geologic information associated to horizon-related object types (marker, seismic picks, modeled objects etcâ¦)",
               "typeRef": "a00757e9-b133-4158-d7cf-b53c4569c5e1",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11351,6 +11375,7 @@
               "description": "Geological description for the type of lithology",
               "typeRef": "97e6080d-732e-472a-84a5-89cf2aa2f036",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11371,6 +11396,7 @@
               "description": "Generic reference object containing the universal properties of reference data, especially the ones commonly thought of as Types",
               "typeRef": "087f12b4-f9ff-44a9-554a-dc30ec9dcfe1",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11391,6 +11417,7 @@
               "description": "An interface between two geological objects, such as horizons and faults in the scope of a model. It is a surface object. The scope can be widened by establishing a relationship to a master-data--BoundaryFeature instance.",
               "typeRef": "197ee416-1b1e-4f8b-4dea-a3bb050863f4",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11411,6 +11438,7 @@
               "description": "A volume of rock that is identified based on some specific attribute, like its mineral content or other physical characteristic. It exists typically in the scope of a model, can be associated with a master-data--RockVolumeFeature for regional correlations.",
               "typeRef": "0810c7e4-8ae3-4cd2-1f19-490a895b46ae",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11431,6 +11459,7 @@
               "description": "Describes the sequence of expected lithologic intervals for the Wellbore",
               "typeRef": "fb69ec86-25d2-43cd-836a-dc31c0af2f36",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11451,6 +11480,7 @@
               "description": "Describes the horizon sequence stratigraphic information (flooding, ravinement, maximum flooding, transgressive).",
               "typeRef": "e559334c-b9be-46f3-b2bf-a36ed87a69e2",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11471,6 +11501,7 @@
               "description": "Representation describing the vertical location of rock units in a particular area",
               "typeRef": "5d6c9eef-c040-41af-3e1b-72ca96eff66b",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11491,6 +11522,7 @@
               "description": "A global hierarchy containing an ordered list of stratigraphic unit interpretations",
               "typeRef": "ccaadd98-e9ae-43e4-be46-650dd3a6f5dc",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11511,6 +11543,7 @@
               "description": "One of potentially many boundary interpretations as a single consistent description of a local boundary feature. An interpretation is subjective and very strongly tied to the intellectual activity of the project team members.",
               "typeRef": "50ae6f71-d8e6-42bb-6743-8a9631fa0434",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11531,6 +11564,7 @@
               "description": "Array of StratigraphicColumnRankInterpretation[] the StratigraphicColumn is composed of",
               "typeRef": "460b96fd-9c3a-44eb-f6b2-a9b96702f74b",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11551,6 +11585,7 @@
               "description": "Array of Stratigraphic Unit Interpretations the StratigraphicColumnRank is composed of. Units are ordered by ascending age or apparent depth.  Only one of ChronoStratigraphySet or StratigraphicUnitInterpretationSet must be populated, never both.",
               "typeRef": "c6773f9e-841f-416a-9337-7b5983f31236",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11571,6 +11606,7 @@
               "description": "The reference value type defining a column position in a stratigraphic chart, which is ordered by rank (increasing from left to right).",
               "typeRef": "7635766f-1eca-44c9-65bd-954b5ebcfc62",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11591,6 +11627,7 @@
               "description": "The role or type of stratigraphy, e.g., Chronostratigraphic, Lithostratigraphic, etc.",
               "typeRef": "a53655c2-9196-4690-b33e-a4856fee1fb1",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11611,6 +11648,7 @@
               "description": "Define the geologic unit (including stratigraphic units) or fluid intervals along the wellbore, independent or based on markers  (defined in one or several WellboreMarkerSets).",
               "typeRef": "f01b22b8-f699-4cb6-31a3-205a2bae3cba",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11631,6 +11669,7 @@
               "description": "Wellbore Markers identify the depth in a wellbore, measured below a reference elevation, at which a person or an automated process identifies a noteworthy observation, which is usually a change in the rock that intersects that wellbore. Formation Marker data includes attributes/properties that put these depths in context. Formation Markers are sometimes known as picks or formation tops.",
               "typeRef": "761e914a-7575-419e-2679-85148e96dce9",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11651,6 +11690,7 @@
               "description": "A set of references to ChronoStratigraphy reference data, which belong to the same StratigraphicColumnRankUnitType, e.g. \"namespace:reference-data--StratigraphicColumnRankUnitType:Chronostratigraphic.System:\" Only one of ChronoStratigraphySet or StratigraphicUnitInterpretationSet must be populated, never both.",
               "typeRef": "e4779d11-6b0d-471d-6811-37e5c80532f5",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11671,6 +11711,7 @@
               "description": "The reference value type for Chronostratigraphic classification. The purpose of chronostratigraphic classification is to organize systematically the rocks forming the Earth's crust into named units (chronostratigraphic units) that represent intervals of geologic time (geochronologic units) to serve as references in narratives about Earth history including the evolution of life. Records of this kind represent chronostratigraphic units, i.e., bodies of rocks that include all rocks representative of a specific interval of geologic time, and only this time span. Chronostratigraphic units are bounded by isochronous horizons which mark specific moments of geological time. The rank (via data.ChronostratigraphicHierarchy) and relative magnitude of the units in the chronostratigraphic hierarchy are a function of the durations they represent.",
               "typeRef": "24b74fe7-1010-4942-74c9-21ec8699a620",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11691,6 +11732,7 @@
               "description": "The array of marker meta data in this set. Markers are externally identified by data.Markers[].MarkerID, ideally a UUID. Older versions of the WellboreMarkerSet schema do not have this identifier. In this case, the string-converted array index is used as MarkerID. The the first index is \"0\".",
               "typeRef": "f888f9e1-ee47-4531-9eca-1b0873500bd2",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11711,6 +11753,7 @@
               "description": "The array of marker meta data in this set.",
               "typeRef": "92a04cd1-0c57-47dd-163d-44427180abf6",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11731,6 +11774,7 @@
               "description": "Array of Intervals, index-aligned with IntervalProperties.",
               "typeRef": "f70649eb-aff3-461c-5b1f-5873c5ccaf01",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11751,6 +11795,7 @@
               "description": "",
               "typeRef": "0c24ce06-53bd-43be-8a50-9677291cc27a",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "",
               "figure": "",
               "geometry": "",
@@ -11771,6 +11816,7 @@
               "description": "Generic reference object containing the universal properties of a Work Product Component for inclusion in data type specific Work Product Component objects",
               "typeRef": "db6661a3-f84d-4c67-4153-31390dfcce1a",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11791,6 +11837,7 @@
               "description": "Member where the custom stratigraphic column has been produced.",
               "typeRef": "7b2179ab-ee84-45f6-d543-f7c843bf8f98",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11811,6 +11858,7 @@
               "description": "Set of geology and drilling information records for the wellbore. This is an API \"data-node\" query parameter for growing objects. See the relevant API specification for the query behavior related to this element.",
               "typeRef": "a2f0649c-8627-423a-3788-07b87ece1dc7",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11831,6 +11879,7 @@
               "description": "An interval given either by relationships to top/base markers or standalone top/base depths. To avoid confusion about entry and exit depths the naming convention uses Start as the entry point of the well path into the geologic unit and Stop as the exit point. For unfolded geologic units and vertical wellbores Start is Top and Stop is Base.",
               "typeRef": "89ea5328-a559-4752-6d86-a4615b3e4d79",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -11851,6 +11900,7 @@
               "description": "A well log is a data type that correlates a particular measurement or multiple measurements in a wellbore against depth and/or time within that wellbore. When plotted visually, well logs are typically long line graphs (called \"curves\") but may sometimes be discrete points or intervals. This schema object is intended for digital well logs, not raster log files or raster calibration files, but may be used for the latter in the absence of a defined OSDU schema for these use cases.",
               "typeRef": "1b3de46c-c030-4270-996c-adbabf26b2c2",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly1",
               "figure": "",
               "geometry": "",
@@ -11871,6 +11921,7 @@
               "description": "",
               "typeRef": "15256491-6bcf-4595-3bfe-0694d2b7ad85",
               "viewkind": "Object",
+              "isGroup": false,
               "template": "textOnly",
               "figure": "",
               "geometry": "",
@@ -17634,7 +17685,7 @@
               "markedAsDeleted": false,
               "generatedTypeId": "",
               "modified": true,
-              "nameId": "Rødby",
+              "nameId": "RÃ¸dby",
               "category": "Object",
               "sourceUri": "",
               "relshipkind": "",
@@ -17647,19 +17698,21 @@
               "description": "Top Rødby boundary surface interpretation.",
               "text": "",
               "abstract": false,
-              "viewkind": "",
+              "viewkind": "Object",
               "typeRef": "a00757e9-b133-4158-d7cf-b53c4569c5e1",
               "typeName": "HorizonInterpretation",
               "propertyValues": [],
               "markedAsDeleted": false,
               "generatedTypeId": "",
               "modified": true,
-              "nameId": "RødbyTop",
+              "nameId": "RÃ¸dbyTop",
               "category": "Object",
               "sourceUri": "",
               "relshipkind": "",
               "valueset": null,
-              "copiedFromId": ""
+              "copiedFromId": "",
+              "isConformableAbove": "",
+              "isConformableBelow": ""
             },
             {
               "id": "684655ff-88a3-4dc4-e6f0-a4b20188fd65",
@@ -18072,7 +18125,7 @@
               "markedAsDeleted": false,
               "generatedTypeId": "",
               "modified": true,
-              "nameId": "Top Rødby",
+              "nameId": "Top RÃ¸dby",
               "category": "Object",
               "sourceUri": "",
               "relshipkind": "",
@@ -18454,7 +18507,7 @@
               "name": "Wellbore 15/3-7 Intervals from Gudrun Formation tops",
               "description": "",
               "abstract": false,
-              "viewkind": "",
+              "viewkind": "Object",
               "typeRef": "f01b22b8-f699-4cb6-31a3-205a2bae3cba",
               "typeName": "WellboreIntervalSet",
               "propertyValues": [],
@@ -18466,7 +18519,9 @@
               "sourceUri": "",
               "relshipkind": "",
               "valueset": null,
-              "copiedFromId": ""
+              "copiedFromId": "",
+              "VerticalMeasurement": "",
+              "IntervalProperties": ""
             },
             {
               "id": "0f2d7213-5305-4fec-1f48-99981ffd89b4",
@@ -21779,7 +21834,7 @@
                 },
                 {
                   "id": "9ac74f7e-4ffd-4588-3ca0-a34fcad89e2a",
-                  "name": "RødbyTop",
+                  "name": "RÃ¸dbyTop",
                   "description": "",
                   "objectRef": "8fcefa9a-5fd1-4548-13a1-587175d9aa14",
                   "typeviewRef": "58946ef1-a5be-49bc-a2f1-3b2251d96da9",
@@ -21902,7 +21957,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "171f2d99-9a0e-4799-e91e-bd2b23ea5499",
@@ -21923,7 +21978,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "f1ec586b-697b-48ab-1de6-4951b34e5942",
@@ -21944,7 +21999,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "618a35a1-ceb8-40fd-ade1-0b77466e7b6d",
@@ -21965,7 +22020,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "b81225c5-949e-4df0-9358-fce2153ad787",
@@ -21986,7 +22041,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "7da4b377-f673-42b2-071e-b0787f61129d",
@@ -22007,7 +22062,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "73a727ea-3f8e-4fe1-2497-ddc9b4f9640a",
@@ -22028,7 +22083,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "fd06927f-9b50-4fde-e3bd-a03dbbd1e03d",
@@ -22049,7 +22104,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "947a0c17-b506-4da1-f577-6f99dd9a078a",
@@ -22070,7 +22125,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "1c644e5a-8ea0-4a9a-2f78-b43c412c8fa0",
@@ -22091,7 +22146,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "fa4afd0c-68d2-4f52-5378-68efa56da81e",
@@ -22112,7 +22167,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "1f60a971-e7df-49a5-52e3-b277a5b758dc",
@@ -22133,7 +22188,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "5e5e289d-080b-4ee1-2631-7db964d2d3fc",
@@ -22154,7 +22209,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "d67f0bd0-6c1d-4794-1700-c33432d83169",
@@ -22175,7 +22230,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "ea925409-5fd7-46c2-f5b6-988f3e91df7b",
@@ -22196,7 +22251,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "7e9a41ca-c4db-4dca-a3d8-cc793c3b554f",
@@ -22217,7 +22272,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "ca69e164-5b6e-4ec6-ed29-524e9b5fe7df",
@@ -22238,7 +22293,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "5cf1da04-2e72-400e-f411-5f99e8c9c877",
@@ -22259,7 +22314,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "a799646b-85a7-4687-3fca-f1ed018ce5fa",
@@ -22280,7 +22335,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "c4f12285-81c5-4ca7-5bf8-9aa82a153fae",
@@ -22301,7 +22356,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "88caf240-fcdd-4fac-62b6-7c06f8f43de8",
@@ -22322,7 +22377,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "001720e7-1439-40ea-5796-0b3d21ca1a46",
@@ -22343,7 +22398,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "bb8779a1-4923-4797-4edd-811d3f364174",
@@ -22364,7 +22419,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "c8ada041-df4a-4579-9ea3-d1aefddad536",
@@ -22385,7 +22440,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "222d7bbb-78b2-46a8-0a73-3c05cb079297",
@@ -22406,7 +22461,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "e9ab21a8-e49d-4bd2-a6f5-eb6586040400",
@@ -22427,7 +22482,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "59705f29-ca47-4d14-ead1-7b4578bbc177",
@@ -22448,7 +22503,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "70fea73f-7e36-4dde-f608-ad67cfd2ac7e",
@@ -22469,7 +22524,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "711dd202-7c1d-4bf8-a5ed-29c9ff894817",
@@ -22490,7 +22545,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "ffe3e775-4c64-4749-b980-e74ebd38006e",
@@ -22511,7 +22566,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "ed544428-e4e2-4f2d-77f4-44ee347e66a0",
@@ -22532,7 +22587,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "28544d15-947c-41b4-0bc9-ff4c66f99e45",
@@ -22553,7 +22608,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "0fda97ff-a8b9-41a9-c920-2155fa40e29d",
@@ -22574,7 +22629,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "1e9e7c2a-f11a-4b7b-63c0-cd5deed1f7bb",
@@ -22595,7 +22650,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "3a17944e-a096-4a8a-7d78-95fe9c216aa7",
@@ -22616,7 +22671,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "f1de80e4-8785-4758-fb6e-c7ea5a4af38a",
@@ -22637,7 +22692,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "9f248bc4-2036-49b6-6655-a1d1e96900a4",
@@ -22658,7 +22713,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "839ff77b-2399-41d3-49f8-26c946c0f57e",
@@ -22679,7 +22734,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "5d3d81d4-428f-4cba-9661-f739ba2ccdd8",
@@ -22700,7 +22755,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "6560d9b8-89b7-4943-2cd9-dab145d172ff",
@@ -22721,7 +22776,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "f7b9eb2c-6627-4fbf-5132-99d479bac3be",
@@ -22742,7 +22797,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "6ab78e99-e74c-4a39-9b88-9f87f4a92fa5",
@@ -22763,7 +22818,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "ed2923c4-1033-43ca-679f-d6fb120fd9a6",
@@ -22784,7 +22839,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "8c792ac5-119b-417c-6199-876f46181d61",
@@ -22805,7 +22860,7 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 }
               ],
               "objecttypeviews": [],
@@ -23734,7 +23789,7 @@
                   "viewkind": "Object",
                   "isGroup": false,
                   "isCollapsed": false,
-                  "loc": "100 -610",
+                  "loc": "120 -620",
                   "size": "",
                   "scale": 1,
                   "memberscale": 1,
@@ -23760,19 +23815,19 @@
                   "viewkind": "Object",
                   "isGroup": false,
                   "isCollapsed": false,
-                  "loc": "110 -810",
+                  "loc": "120 -820",
                   "size": "",
                   "scale": 1,
                   "memberscale": 1,
                   "markedAsDeleted": false,
                   "modified": true,
-                  "template": "",
+                  "template": "textOnly",
                   "figure": "",
                   "geometry": "",
-                  "fillcolor": "",
-                  "strokecolor": "",
+                  "fillcolor": "#ffd701",
+                  "strokecolor": "black",
                   "strokewidth": "1",
-                  "textcolor": "",
+                  "textcolor": "black",
                   "textscale": "1",
                   "icon": ""
                 },
@@ -23968,9 +24023,9 @@
                   "viewkind": "Object",
                   "isGroup": false,
                   "isCollapsed": false,
-                  "loc": "-242.81765912571143 -617.9556669319625",
+                  "loc": "-300 -620",
                   "size": "",
-                  "scale": 0,
+                  "scale": 1,
                   "memberscale": 1,
                   "markedAsDeleted": false,
                   "modified": true,
@@ -23994,9 +24049,9 @@
                   "viewkind": "Object",
                   "isGroup": false,
                   "isCollapsed": false,
-                  "loc": "-242.81765912571143 -817.9556669319625",
+                  "loc": "-300 -820",
                   "size": "",
-                  "scale": 0,
+                  "scale": 1,
                   "memberscale": 1,
                   "markedAsDeleted": false,
                   "modified": true,
@@ -24012,7 +24067,7 @@
                 },
                 {
                   "id": "d6492c23-7104-44d0-2486-ef1717901c09",
-                  "name": "RødbyTop",
+                  "name": "RÃ¸dbyTop",
                   "description": "",
                   "objectRef": "8fcefa9a-5fd1-4548-13a1-587175d9aa14",
                   "typeviewRef": "58946ef1-a5be-49bc-a2f1-3b2251d96da9",
@@ -24488,7 +24543,7 @@
                   "viewkind": "Object",
                   "isGroup": false,
                   "isCollapsed": false,
-                  "loc": "110 -470",
+                  "loc": "120 -470",
                   "size": "",
                   "scale": 1,
                   "memberscale": 1,
@@ -24503,6 +24558,10 @@
                   "textcolor": "",
                   "textscale": "1",
                   "icon": ""
+                },
+                {
+                  "scale": null,
+                  "memberscale": null
                 }
               ],
               "relshipviews": [
@@ -24525,17 +24584,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 16592658,
+                    "__gohashid": 4277745,
                     "s": true,
                     "j": [
                       {
-                        "x": 189.2500623830561,
-                        "y": -739.0012476611222,
+                        "x": 202,
+                        "y": -747,
                         "s": true
                       },
                       {
-                        "x": 182.7499376169439,
-                        "y": -608.9987523388778,
+                        "x": 202,
+                        "y": -619,
                         "s": true
                       }
                     ],
@@ -24544,7 +24603,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "6f42edbf-f295-420f-c623-f1af364ac1d3",
@@ -24584,7 +24643,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "3daf4565-7f11-4d5b-11b4-30e9e5998d64",
@@ -24624,7 +24683,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "0a94f2a6-4453-44e9-f2b2-e873cb6a8576",
@@ -24664,7 +24723,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "afe3b18b-a65c-4eaf-88c8-0f9eeb826036",
@@ -24685,17 +24744,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 19781620,
+                    "__gohashid": 4277621,
                     "s": true,
                     "j": [
                       {
-                        "x": -154.9758794451963,
-                        "y": -546.974261547238,
+                        "x": -208.9714996587715,
+                        "y": -549.0387640037836,
                         "s": true
                       },
                       {
-                        "x": -45.84177968051512,
-                        "y": 11.0185946152755,
+                        "x": -48.31534661698126,
+                        "y": 11.038764003783584,
                         "s": true
                       }
                     ],
@@ -24704,7 +24763,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "2529d512-49bf-438c-da74-893c2defd03e",
@@ -24725,17 +24784,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 19781460,
+                    "__gohashid": 4277622,
                     "s": true,
                     "j": [
                       {
-                        "x": -153.9782573990642,
-                        "y": -546.9798773586105,
+                        "x": -207.51912937817733,
+                        "y": -549.0499463390923,
                         "s": true
                       },
                       {
-                        "x": -46.83940172664721,
-                        "y": -68.97578957335197,
+                        "x": -49.80936426973557,
+                        "y": -68.9500536609077,
                         "s": true
                       }
                     ],
@@ -24744,7 +24803,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "311ba29e-ed96-48aa-c8f5-53412e5736d3",
@@ -24765,17 +24824,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 19781378,
+                    "__gohashid": 4277623,
                     "s": true,
                     "j": [
                       {
-                        "x": -152.64030527075175,
-                        "y": -546.9884254583851,
+                        "x": -205.57546913319186,
+                        "y": -549.06655227477,
                         "s": true
                       },
                       {
-                        "x": -48.17735385495965,
-                        "y": -148.96724147357736,
+                        "x": -51.80881961415423,
+                        "y": -148.93344772523008,
                         "s": true
                       }
                     ],
@@ -24784,7 +24843,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "3d2e2f86-1664-4465-ba4a-878883e8721d",
@@ -24805,17 +24864,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 19781282,
+                    "__gohashid": 4277624,
                     "s": true,
                     "j": [
                       {
-                        "x": -150.75224347703457,
-                        "y": -547.0022999778848,
+                        "x": -202.8407813914314,
+                        "y": -549.0925167074568,
                         "s": true
                       },
                       {
-                        "x": -50.06541564867686,
-                        "y": -228.9533669540776,
+                        "x": -54.622134209591636,
+                        "y": -228.90748329254325,
                         "s": true
                       }
                     ],
@@ -24824,7 +24883,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "c6052de7-a0f4-437b-bf52-3f8b2e6565c6",
@@ -24845,17 +24904,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 19781179,
+                    "__gohashid": 4277625,
                     "s": true,
                     "j": [
                       {
-                        "x": -147.8874713755455,
-                        "y": -547.0268115081765,
+                        "x": -198.7092118272888,
+                        "y": -549.1357175595957,
                         "s": true
                       },
                       {
-                        "x": -52.93018775016594,
-                        "y": -308.92885542378605,
+                        "x": -58.87278174184301,
+                        "y": -308.8642824404043,
                         "s": true
                       }
                     ],
@@ -24864,7 +24923,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "3a76a6b3-2137-40a7-ceff-b93079403889",
@@ -24885,17 +24944,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 19781084,
+                    "__gohashid": 4277626,
                     "s": true,
                     "j": [
                       {
-                        "x": -143.02486687322482,
-                        "y": -547.0753124135252,
+                        "x": -191.74253980170857,
+                        "y": -549.212854664059,
                         "s": true
                       },
                       {
-                        "x": -57.792792252486564,
-                        "y": -388.88035451843723,
+                        "x": -66.0410099818412,
+                        "y": -388.787145335941,
                         "s": true
                       }
                     ],
@@ -24904,7 +24963,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "bc28b990-77e7-424c-e098-3be8017c8b86",
@@ -24944,7 +25003,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "3ff064c3-a371-4b11-b0af-6b04891270d4",
@@ -24965,17 +25024,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 19780981,
+                    "__gohashid": 4277627,
                     "s": true,
                     "j": [
                       {
-                        "x": -132.95562332175928,
-                        "y": -547.1862226453146,
+                        "x": -177.4771596835816,
+                        "y": -549.3593984100597,
                         "s": true
                       },
                       {
-                        "x": -67.86203580395221,
-                        "y": -468.7694442866478,
+                        "x": -80.72151581310716,
+                        "y": -468.6406015899402,
                         "s": true
                       }
                     ],
@@ -24984,7 +25043,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "e277cb7a-8671-444c-0e35-7408a1a669a5",
@@ -25004,9 +25063,27 @@
                   "toArrow": "",
                   "fromArrowColor": "",
                   "toArrowColor": "",
-                  "points": null,
+                  "points": {
+                    "__gohashid": 4277628,
+                    "s": true,
+                    "j": [
+                      {
+                        "x": -218.18090445916732,
+                        "y": -747.0000126257047,
+                        "s": true
+                      },
+                      {
+                        "x": -218.82412066646083,
+                        "y": -618.9999873742953,
+                        "s": true
+                      }
+                    ],
+                    "Aa": 3,
+                    "Ha": null,
+                    "gh": null
+                  },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "ac06346d-befa-4819-99ce-06b77a87f991",
@@ -25046,7 +25123,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "af4fba6e-bbf6-41d1-02a0-6a0b0df34a24",
@@ -25068,7 +25145,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "0830b3e5-5d3c-4033-ba7f-7514bd3c8852",
@@ -25090,7 +25167,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "c7bc9e02-872a-4306-d38e-aa90fa2c0cdc",
@@ -25112,7 +25189,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "9e9697c2-5554-413d-4211-2a5ab1263469",
@@ -25134,7 +25211,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "c44297de-9c99-4ffa-2510-efdcb0a34cf6",
@@ -25156,7 +25233,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "1c1788cc-f924-4b7b-532c-204ee813f97e",
@@ -25178,7 +25255,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "45a5d532-68cd-4545-24fa-968b768aa3a1",
@@ -25200,7 +25277,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "035fb363-de44-473b-f7b2-6ce5b0987e2c",
@@ -25222,7 +25299,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "26ac5a8a-e6ef-4ac0-2173-4c7a39a22ed8",
@@ -25244,7 +25321,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "1b7615d5-c458-45eb-d042-f65a1ee59e54",
@@ -25266,7 +25343,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "11d799a7-22f3-4cc5-d943-db8e7bdf1e17",
@@ -25288,7 +25365,7 @@
                   "toArrowColor": "",
                   "points": null,
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 },
                 {
                   "id": "e3a0697c-80e7-461f-9e7e-0c18632fb484",
@@ -25309,17 +25386,17 @@
                   "fromArrowColor": "",
                   "toArrowColor": "",
                   "points": {
-                    "__gohashid": 16592469,
+                    "__gohashid": 4277746,
                     "s": true,
                     "j": [
                       {
-                        "x": 183.49981847855935,
-                        "y": -539.0025413001692,
+                        "x": 202,
+                        "y": -547,
                         "s": true
                       },
                       {
-                        "x": 188.50018152144065,
-                        "y": -468.99745869983076,
+                        "x": 202,
+                        "y": -469,
                         "s": true
                       }
                     ],
@@ -25328,7 +25405,7 @@
                     "gh": null
                   },
                   "markedAsDeleted": "",
-                  "modified": false
+                  "modified": ""
                 }
               ],
               "objecttypeviews": [],
@@ -25343,7 +25420,7 @@
       ],
       "currentMetamodelRef": "68341d75-2a78-413d-2700-320a66411d01",
       "currentModelRef": "8fe241f5-d605-4234-e240-8e573dd70e31",
-      "currentModelviewRef": "6f22c69b-f62f-46a8-f360-c1984e9927ef",
+      "currentModelviewRef": "5698b435-2c38-486c-53c4-123db491b194",
       "currentTemplateModelRef": "",
       "currentTargetMetamodelRef": "",
       "currentTargetModelRef": "",
@@ -25614,8 +25691,8 @@
       "name": ""
     },
     "focusRefresh": {
-      "id": "7nfcp",
-      "name": "name"
+      "id": "i3s5hf",
+      "name": "0name"
     },
     "focusTargetMetamodel": {
       "id": "68341d75-2a78-413d-2700-320a66411d01",
@@ -25634,6 +25711,6 @@
       }
     }
   },
-  "phSource": "OSDU-StratColumnMarker-Imported (19).json",
-  "lastUpdate": "2022-08-29T21:34:24.007Z"
+  "phSource": "OSDU-StratColumnMarker-SolutionTest",
+  "lastUpdate": "2022-09-06T07:37:46.390Z"
 }
