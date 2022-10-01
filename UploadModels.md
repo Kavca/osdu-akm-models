@@ -68,7 +68,7 @@ Click "Compare & pull request" button.
 
 (Add a comment and)Click "Create pull request" button.
 
-![Code.png](./img/CreatePullRequestUploadfiles.png)
+![Code.png](./img/CreatePullRequestUploadFiles.png)
 
 </details>
 
