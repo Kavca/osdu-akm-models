@@ -1,6 +1,5 @@
-layout: page
-title: "PAGE-TITLE"
-permalink: /
+title: "UPLOAD-MODELS"
+
 
 # AKM Models upload to GitHub
 
