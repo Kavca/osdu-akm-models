@@ -8,12 +8,12 @@ This is a public repo for AKM models made in AKM Modeller and saved as .json fil
 
 ## Introduction
 
-AKM Modelling can be done locally with models stored locally on your computer as Project.json files.
-AKM Modelling can also be done as a collaborate task with several team members with Project.json files stored in a GitHub repository.
+AKM Modelling files can be stored locally on your computer as Project.json files.
+AKM Modelling files can also be done as a collaborate task with several team members with Project.json files stored in a GitHub repository.
 
 ## Lets get started
 
-(Tips: You can duplicate this browser-tab and move it on the side, to have it available when doing the procedure)
+(Tips: This page can also be viewed on : https://kavca.github.io/osdu-akm-models/)
 
 Open the webpage:  
 
