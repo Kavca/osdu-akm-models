@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /
+
 # AKM Models upload to GitHub
 
 ## Introduction
