@@ -31,7 +31,7 @@ Select "Modelling" in the top menu.
 
 ### 1. Open a Project.json file in AKM Modeller
 
-<details><summary>Open local project files: <code> Click: "Choose file" button</code></summary>
+<details markdown="span"><summary markdown="span">Open local project files: <code> Click: "Choose file" button</code></summary>
 
 Click on: Project files: "Choose file" button and select the project file you want to load (.json file).
 
