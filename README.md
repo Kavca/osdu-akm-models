@@ -1,9 +1,5 @@
 Kavca | [Upload models](UploadModels.md) | [ ](.md) | 
 
-{% details Read more about that **thing**... %}
-  That **thing** is...
-{% enddetails %}
-
 # osdu-akm-models
 
 # AKM Models
