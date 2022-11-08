@@ -1,5 +1,8 @@
 Kavca | [Upload models](UploadModels.md) | [ ](.md) | 
 
+{% details Read more about that **thing**... %}
+  That **thing** is...
+{% enddetails %}
 
 # osdu-akm-models
 
@@ -36,7 +39,7 @@ Select "Modelling" in the top menu.
 
 Click on: Project files: "Choose file" button and select the project file you want to load (.json file).
 
-![alt text](./img/ChooseFile.png)
+![Choose file](./img/ChooseFile.png)
 
 The selected file will be loaded in the AKM Modeller.
 
