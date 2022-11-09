@@ -13,7 +13,7 @@ AKM Modelling files can also be done as a collaborate task with several team mem
 
 ## Lets get started
 
-(Tips: This page can also be viewed on : https://kavca.github.io/osdu-akm-models/){:target="_blank" rel="noopener"}
+(Tips: This page can also be viewed on : https://kavca.github.io/osdu-akm-models/) (Right-click the link to open in a separate window)
 
 Open the webpage:  
 
