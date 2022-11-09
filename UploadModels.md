@@ -15,13 +15,13 @@ Go to the GitHub repository <code> Find Link in "GitHub" button dialog</code>
 
 <details markdown="span">
 
-Click on "GitHub" button to open the dialog for GitHub repository.
+-Click on "GitHub" button to open the dialog for GitHub repository.
 
-Click on the "Click here to open GitHUb" link at the bottom of the dialog.
+-Click on the "Click here to open GitHUb" link at the bottom of the dialog.
 
-A new browserwindow opens with the repository page. 
+-A new browserwindow opens with the repository page. 
 
-Click on "X" button in the top right corner to close the current GitHub dialog.
+-Click on "X" button in the top right corner to close the current GitHub dialog.
 
 ---
 
@@ -29,13 +29,13 @@ Click on "X" button in the top right corner to close the current GitHub dialog.
 
 <details>
 
-Click on "GitHub" button to open the dialog for GitHub repository.
+- Click on "GitHub" button to open the dialog for GitHub repository.
 
-Click on the "Click here to open GitHUb" link at the bottom of the dialog.
+- Click on the "Click here to open GitHUb" link at the bottom of the dialog.
 
-A new browserwindow opens with the repository page. 
+- A new browserwindow opens with the repository page. 
 
-Click on "X" button in the top right corner to close the current GitHub dialog.
+- Click on "X" button in the top right corner to close the current GitHub dialog.
 
 ---
 
