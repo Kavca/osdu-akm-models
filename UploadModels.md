@@ -13,8 +13,6 @@ Go to the GitHub repository <code> Find Link in "GitHub" button dialog</code>
 
 <details markdown="span">
 
-A link to the repository can be fond:
-
 Click on "GitHub" button to open the dialog for GitHub repository.
 
 Click on the "Click here to open GitHUb" link at the bottom of the dialog.
