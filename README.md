@@ -1,8 +1,6 @@
 | [Upload models](UploadModels.md) | [about](about.md) | 
 
-# osdu-akm-models
-
-# AKM Models
+# Modelling
 
 This is a public repo for AKM models made in AKM Modeller and saved as .json files.
 
