@@ -11,9 +11,7 @@ A AKM Project file (.json) will be uploaded to GitHub as a "text-file".
 
 ***(first in AKM Modeller)***
 
-Go to the GitHub repository <code> Find Link in "GitHub" button dialog</code>
-
-<details markdown="span">
+<details markdown="span"><summary>Go to the GitHub repository <code> Find Link in "GitHub" button dialog</code></summary>
 
 -Click on "GitHub" button to open the dialog for GitHub repository.
 
@@ -26,21 +24,6 @@ Go to the GitHub repository <code> Find Link in "GitHub" button dialog</code>
 ---
 
 </details>
-
-<details>
-
-- Click on "GitHub" button to open the dialog for GitHub repository.
-
-- Click on the "Click here to open GitHUb" link at the bottom of the dialog.
-
-- A new browserwindow opens with the repository page. 
-
-- Click on "X" button in the top right corner to close the current GitHub dialog.
-
----
-
-</details>
-
 
 ---
 
