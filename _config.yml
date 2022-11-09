@@ -1,5 +1,7 @@
-
+theme: jekyll-theme-minimal
+#title: AKM OSDU Model's homepage
+#description: Active Knowledge Modelling of OSDU related domains!
 markdown: CommonMarkGhPages
-commonmark:
+commonmark: # To make <details> work
   options: ["UNSAFE", "SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
