@@ -1,4 +1,4 @@
-| [Readme](Readme.md) | [about](about.md) | 
+| [README](README.md) | [about](about.md) | 
 ## AKM Models upload to GitHub
 
 ### Introduction
@@ -25,6 +25,21 @@ Click on "X" button in the top right corner to close the current GitHub dialog.
 ---
 
 </details>
+
+<details>
+
+Click on "GitHub" button to open the dialog for GitHub repository.
+
+Click on the "Click here to open GitHUb" link at the bottom of the dialog.
+
+A new browserwindow opens with the repository page. 
+
+Click on "X" button in the top right corner to close the current GitHub dialog.
+
+---
+
+</details>
+
 
 ---
 
