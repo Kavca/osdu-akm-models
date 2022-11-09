@@ -1,4 +1,4 @@
-Kavca | [Upload models](UploadModels.md) | [about](about.md) | 
+| [Upload models](UploadModels.md) | [about](about.md) | 
 
 # osdu-akm-models
 
