@@ -1,8 +1,8 @@
 | [Readme](README.md) | UploadModels | [about](about.md) | 
 
-## AKM Models upload to GitHub
+# AKM Models upload to GitHub
 
-### Introduction
+## Introduction
 
 This guide will help you to upload your models to GitHub.
 A AKM Project file (.json) will be uploaded to GitHub as a "text-file".
