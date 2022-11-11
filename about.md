@@ -1,4 +1,4 @@
-| Readme | [UploadModels](UploadModels.md) | [about](about.md)|
+| [Readme](README.md) | [UploadModels](UploadModels.md) | about |
 
 # This is the AKM Models Aboutpage.
 
