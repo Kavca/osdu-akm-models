@@ -1,4 +1,4 @@
-| [README](README.md) | [about](about.md) | 
+| [README](README.md) | UploadModels | [about](about.md) | 
 
 ## AKM Models upload to GitHub
 
