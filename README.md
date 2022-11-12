@@ -1,4 +1,4 @@
-| Readme | [Upload models](UploadModels.md) | [about](about.md) | 
+| Readme | [Upload models](UploadModels.md) | [About](about.md) | 
 
 # Modelling
 
