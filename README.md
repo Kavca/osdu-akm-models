@@ -9,6 +9,13 @@ This is a public repo for AKM models made in AKM Modeller and saved as .json fil
 AKM Modelling files can be stored locally on your computer as Project.json files.  
 AKM Modelling files can also be done as a collaborate task with several team members with Project.json files stored in a GitHub repository.
 
+---
+
+    Note:
+    Click on "Project" in the top menu to open the Projects Canban to follow the progress of the project. 
+    You can contribute by clicking "Add item" in the Input column of the Canban. 
+    You can also add comments to the existing Cards.
+
 ## Lets get started
 
 <code>Tips: This page can also be viewed on: [View the project on GitHub](https://github.com/Kavca/osdu-akm-models)) (Right-Click to open in separate window!</code>
