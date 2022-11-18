@@ -28,6 +28,35 @@ Open the webpage:
 
 ---
 
+<details>
+
+Click on the GitHub button in the top menu to open the GitHub download dialog.
+
+Fill in the dialog:
+
+RepoOwner: "Kavca"
+Repository: "kavca-akm-models"
+Path: "startmodels"
+
+Clik the "LIST MODELS" button to list the models in the repository.
+Select one of the start models and click "DONE"
+
+To rename the project, model and modelview, select the "_ADMIN_MODEL in the model dropdown menu.
+
+- Change the name of the project object to your project name.
+- Change the name of the Model object to your model name.
+- Change the name of the Modelview object to your modelview name, i.e. "01-Main".
+
+Right click the background and select "Update Project from AdminModel.
+
+Click refresh (Blue text in the top right corner)
+
+Now you can start modeling.
+
+</details>
+
+---  
+
 ***(In AKM Modeller)***
 
 Select "Modelling" in the top menu.
