@@ -28,6 +28,8 @@ Open the webpage:
 
 ---
 
+### To start a new model project
+
 <details>
 
 Click on the GitHub button in the top menu to open the GitHub download dialog.
