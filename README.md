@@ -5,6 +5,8 @@
 # Models
 
 [AKM-Production-Measurements-Conceptmodel](http://localhost:3000/modelling?repo=Kavca/osdu-akm-models&path=production&file=AKM-Production-Measurements-Conceptmodel_PR.json)
+[OSDU-Welltest-Example](http://localhost:3000/modelling?repo=Kavca/osdu-akm-models&path=production&file=OSDU-Welltest-Example_PR.json)
+
 
 
 This is a public repo for AKM models made in AKM Modeller and saved as .json files.
