@@ -4,8 +4,8 @@
 
 #  OSDU Models
 
-- [AKM-Production-Measurements-Conceptmodel](https://akmmclient-main.vercel.app/modelling?repo=Kavca/osdu-akm-models&path=production&file=AKM-Production-Measurements-Conceptmodel_PR.json)
-- [OSDU-Welltest-Example](https://akmmclient-main.vercel.app/modelling?repo=Kavca/osdu-akm-models&path=production&file=OSDU-Welltest-Example_PR.json)
+- [AKM-Production-Measurements-Conceptmodel](https://akmmclient-main.vercel.app/project?repo=Kavca/osdu-akm-models&path=production&file=AKM-Production-Measurements-Conceptmodel_PR.json)
+- [OSDU-Welltest-Example](https://akmmclient-main.vercel.app/project?repo=Kavca/osdu-akm-models&path=production&file=OSDU-Welltest-Example_PR.json)
 
 
 
