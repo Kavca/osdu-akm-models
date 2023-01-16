@@ -1,15 +1,15 @@
 | Readme | [Upload models](UploadModels.md) | [About](about.md) | 
 
-# AKM Modelling
+# OSDU AKM Modelling
 
-# Models
+#  OSDU Models
 
-[AKM-Production-Measurements-Conceptmodel](http://localhost:3000/modelling?repo=Kavca/osdu-akm-models&path=production&file=AKM-Production-Measurements-Conceptmodel_PR.json)
-[OSDU-Welltest-Example](http://localhost:3000/modelling?repo=Kavca/osdu-akm-models&path=production&file=OSDU-Welltest-Example_PR.json)
+- [AKM-Production-Measurements-Conceptmodel](https://akmmclient-main.vercel.app/modelling?repo=Kavca/osdu-akm-models&path=production&file=AKM-Production-Measurements-Conceptmodel_PR.json)
+- [OSDU-Welltest-Example](https://akmmclient-main.vercel.app/modelling?repo=Kavca/osdu-akm-models&path=production&file=OSDU-Welltest-Example_PR.json)
 
 
 
-This is a public repo for AKM models made in AKM Modeller and saved as .json files.
+This is a public repo for OSDU AKM models made in AKM Modeller and saved as .json files.
 
 ## Introduction
 
