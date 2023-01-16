@@ -4,10 +4,12 @@
 
 #  OSDU Models
 
+Click on the links below to open the models in AKM Modeller:
+
 - [AKM-Production-Measurements-Conceptmodel](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=AKM-Production-Measurements-Conceptmodel_PR.json)
 - [OSDU-Welltest-Example](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=OSDU-Welltest-Example_PR.json)
 
-
+---
 
 This is a public repo for OSDU AKM models made in AKM Modeller and saved as .json files.
 
