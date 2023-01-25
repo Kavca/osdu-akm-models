@@ -1,7 +1,5 @@
 | Readme | [Project](https://github.com/orgs/Kavca/projects/3) | [Upload models](UploadModels.md) | [About](about.md) | 
 
-# OSDU AKM Modelling
-
 #  OSDU Models
 
 Click on the links below to open the models in AKM Modeller:
