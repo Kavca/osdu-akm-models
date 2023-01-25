@@ -1,4 +1,4 @@
-| [Readme](README.md) | UploadModels | [About](about.md) | 
+| [Readme](README.md) | [Project](https://github.com/orgs/Kavca/projects/3) | UploadModels | [About](about.md) | 
 
 # AKM Models upload to GitHub
 
