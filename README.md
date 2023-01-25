@@ -9,7 +9,7 @@ Click on the links below to open the models in AKM Modeller:
 ## Producton 
 
 
-- [EQUINOR Wellbore Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=EQUINOR&20;Wellbore&20;Model.json&branch=main)
+- [EQUINOR Wellbore Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=EQUINOR%20Wellbore%20Model.json&branch=main)
 
 ---
 
