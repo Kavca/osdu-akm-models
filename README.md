@@ -9,7 +9,7 @@ Click on the links below to open the models in AKM Modeller:
 
 - [EQUINOR Wellbore Concept Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=EQUINOR%20Wellbore%20Concept%20Model.json&branch=main)
 
-- [EQUINOR Wellbore Solution Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=EQUINOR%20Wellbore%20Solution%20Model.json&branch=main)
+- [EQUINOR Wellbore Solution Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&file=EQUINOR%20Wellbore%20Solution%20Model.json&branch=main)
 
 - [EQUINOR Wellbore Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=EQUINOR%20Wellbore%20Model.json&branch=main)
 
