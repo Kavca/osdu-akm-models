@@ -18846,7 +18846,7 @@
                   "viewkind": "Container",
                   "isGroup": true,
                   "isExpanded": false,
-                  "isSelected": false,
+                  "isSelected": true,
                   "loc": "-3600 -2520",
                   "template": "textAndIcon",
                   "figure": "",
@@ -30347,12 +30347,12 @@
       "name": "0-Overview"
     },
     "focusObject": {
-      "id": "9b425dc8-88d0-498b-c398-91aeac1fcf0a",
-      "name": "This Producton-Testing_CM model is part of the Production process/phase in the model below.\nThe container is just screenshot from the O&G-Overview_CM model."
+      "id": "e31fe619-9ebf-405e-d48b-9bada2d51f8f",
+      "name": "Process Overview"
     },
     "focusObjectview": {
-      "id": "8e646f14-ce42-469d-56b2-17f04b26a378",
-      "name": "This Producton-Testing_CM model has as Scope to detail the Production (process/phase) shown in the container below. \nIt's just screenshot from the O&G-Overview_CM model."
+      "id": "290176f1-517e-4fac-e948-ed364dc13e2f",
+      "name": "Process Overview"
     },
     "focusRelship": {
       "id": "",
@@ -30390,7 +30390,9 @@
       "path": "production",
       "file": "OSDU-Production-Well-Testing_PR.json",
       "branch": "main",
-      "projectNumber": "4"
+      "projectNumber": "4",
+      "username": "kavca",
+      "filename": "OSDU-Production-Well-Testing_PR.json"
     },
     "focusSource": {
       "id": null,
@@ -30407,7 +30409,7 @@
       "name": "AKM-CORE_MM"
     }
   },
-  "phSource": "OSDU-Production-Well-Testing_PR",
+  "phSource": "GitHub: osdu-akm-models/production/OSDU-Production-Well-Testing_PR.json",
   "phUser": {
     "focusUser": {
       "id": "email",
