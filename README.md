@@ -11,13 +11,9 @@ Click on the links below to open the models in AKM Modeller:
 
 - [EQUINOR Wellbore Solution Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&file=EQUINOR%20Wellbore%20Solution%20Model.json&branch=main)
 
-- [EQUINOR Wellbore Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=EQUINOR%20Wellbore%20Model.json&branch=main)
+- [EQUINOR Wellbore Solution Model](http://akmmclient-beta.vercel.app/modelling?focus=%7B%22githubFile%22%3A%7B%22org%22%3A%22kavca%22%2C%22repo%22%3A%22osdu-akm-models%22%2C%22branch%22%3A%22main%22%2C%22path%22%3A%22production%22%2C%22filename%22%3EQUINOR%20Wellbore%20Model.json)
 
--
-
-- [OSDU-Production-Testing](http://akmmclient-beta.vercel.app/modelling?focus={"githubFile":{"org":"kavca","repo":"osdu-akm-models","branch":"main","path":"production","filename":"OSDU-Production-Testing_PR.json"})
-
-
+- [OSDU-Production-Well-Testing_PR](http://akmmclient-beta.vercel.app/modelling?focus=%7B%22githubFile%22%3A%7B%22org%22%3A%22kavca%22%2C%22repo%22%3A%22osdu-akm-models%22%2C%22branch%22%3A%22main%22%2C%22path%22%3A%22production%22%2C%22filename%22%3A%22OSDU-Production-Well-Testing_PR.json%22%7D%7D)
 
 
 - [AKM-Production-Measurements-Conceptmodel](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=AKM-Production-Measurements-Conceptmodel_PR.json&branch=main)
