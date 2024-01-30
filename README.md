@@ -2,10 +2,11 @@
 
 #  OSDU Models
 
-Click on the links below to open the models in AKM Modeller:
+Right-Click the links below to open the models in AKM Modeller in a new brower-window:
+
+(It will be open with AKMM version beta.)
 
 ## Production 
-
 
 - [OSDU-Production-Well-Testing_PR](http://akmmclient-beta.vercel.app/modelling?focus=%7B%22githubFile%22%3A%7B%22org%22%3A%22kavca%22%2C%22repo%22%3A%22osdu-akm-models%22%2C%22branch%22%3A%22main%22%2C%22path%22%3A%22production%22%2C%22filename%22%3A%22OSDU-Production-Well-Testing_PR.json%22%7D%7D)
 
