@@ -1,13 +1,6 @@
 {
   "name": "Test Data",
-  "items": [
-    {
-      "id": 1,
-      "name": "Item 1"
-    },
-    {
-      "id": 2,
-      "name": "Item 2"
-    }
-  ]
+  "items": {
+    "content": "{\n  \"name\": \"Test Data\",\n  \"items\": [\n    {\n      \"id\": 1,\n      \"name\": \"Item 1\"\n    },\n    {\n      \"id\": 2,\n      \"name\": \"Item 2\"\n    }\n  ]\n}"
+  }
 }
